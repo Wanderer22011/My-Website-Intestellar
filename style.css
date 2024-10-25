@@ -1,0 +1,146 @@
+.hero-image{
+    background-image: url("./Images/gargantuan-black-hole.jpg");
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+    margin-top: -3px;
+    
+}
+
+.home_logo{
+    margin-left: 150px;
+}
+
+
+h1{
+    color: white;
+    top: 180px;
+    width: 100%;
+    font-size: 3rem;
+}
+
+
+body{
+    background-size: 50%;
+}
+
+
+button{
+line-height: 1;
+margin-right: 20px;
+margin-left: 40px;
+margin-bottom: 30px;
+height: 200px;
+width: 350px;
+}
+
+
+
+
+
+
+div {
+    background-color:rgba(1, 44, 84, 1); 
+    
+  }
+
+h2{
+    background-color: rgba(1, 44, 84, 1);
+    text-align: center;
+    color: white;
+}
+.About_This_Page{
+    width: 1093px;
+    height: 100px;
+    text-align: center;
+    
+    padding: 100px;
+    color: white;
+    margin: auto;
+}
+
+.index-photo{
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.index-column{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+}
+
+
+
+.Content{
+    background-color: rgba(1, 44, 84, 1);
+    width: 85%;
+    margin-left: 115px;
+}
+
+.Contact{
+    background-color: rgb(0, 93, 180);
+}
+
+
+
+.info{
+    color: white;
+    font-size: 1.25rem;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.Characters{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    width: 80%;
+    gap: 50px;
+    margin: auto;
+}
+
+.img{
+    margin-top: 50px;
+    width: 50%;
+    height: 50%;
+}
+
+.universe{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    width: 100%;
+    gap: 50px;
+    margin-left: 200px;
+}
+
+.universe-text-h2{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 200px;
+ 
+}
+
+.universe-text-h3{
+    color: white;
+
+}
+
+.universe-img{
+    width: 50%;
+    height: 50%;
+}
+
+.Music-content{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    width: 100%;
+    gap: 50px;
+    margin: auto;
+    margin-right: 50px;
+}
+
